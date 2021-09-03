@@ -1,0 +1,11 @@
+Line 30: Class MSFlexGridLib.MSFlexGrid of control msflgTestResults was not a loaded control class.
+Line 94: Class MSFlexGridLib.MSFlexGrid of control msflgDetails was not a loaded control class.
+Line 36: The property name _ExtentX in msflgTestResults is invalid.
+Line 37: The property name _ExtentY in msflgTestResults is invalid.
+Line 38: The property name _Version in msflgTestResults is invalid.
+Line 39: The property name Cols in msflgTestResults is invalid.
+Line 100: The property name _ExtentX in msflgDetails is invalid.
+Line 101: The property name _ExtentY in msflgDetails is invalid.
+Line 102: The property name _Version in msflgDetails is invalid.
+Line 103: The property name Cols in msflgDetails is invalid.
+Line 104: The property name FormatString in msflgDetails is invalid.

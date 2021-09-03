@@ -1,0 +1,6 @@
+Line 112: Class MSFlexGridLib.MSFlexGrid of control msflgBBSearch was not a loaded control class.
+Line 118: The property name _ExtentX in msflgBBSearch is invalid.
+Line 119: The property name _ExtentY in msflgBBSearch is invalid.
+Line 120: The property name _Version in msflgBBSearch is invalid.
+Line 121: The property name Cols in msflgBBSearch is invalid.
+Line 122: The property name AllowUserResizing in msflgBBSearch is invalid.
